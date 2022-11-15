@@ -1,9 +1,9 @@
-[submodule "blockchain-blocks"]
-	path = blockchain-blocks
-	url = https://github.com/MaxWainer/blockchain-blocks
-[submodule "blockchain-miner"]
-	path = blockchain-miner
-	url = https://github.com/MaxWainer/blockchain-miner
-[submodule "blockchain-backend"]
-	path = blockchain-backend
-	url = https://github.com/MaxWainer/blockchain-backend
+[submodule "cryptocurrency-blockchain"]
+	path = cryptocurrency-blockchain
+	url = https://github.com/MaxWainer/cryptocurrency-blockchain
+[submodule "cryptocurrency-miner"]
+	path = cryptocurrency-miner
+	url = https://github.com/MaxWainer/cryptocurrency-miner
+[submodule "cryptocurrency-backend"]
+	path = cryptocurrency-backend
+	url = https://github.com/MaxWainer/cryptocurrency-backend
